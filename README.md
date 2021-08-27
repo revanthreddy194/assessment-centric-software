@@ -1,7 +1,7 @@
 # Centric Software - assignment
 
 ### Task 1  
-Write a HTTP REST API for product resource able to do the following operations:
+Write a HTTP REST API for product resource able to do the following operations:  
 ● Insertion of a product. The response must return the result of the insertion (the product
 entity data itself)  
 
